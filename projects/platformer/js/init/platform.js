@@ -23,7 +23,7 @@
      *      scaleY: OPTIONAL The scale factor on the y-axis, this value will 
      *              stretch the platform in height.
      */ 
-    platform.init = function (400,460);(400,200); (400,170); {
+    platform.init = function (game) {
         ////////////////////////////////////////////////////////////////////////
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
