@@ -36,8 +36,11 @@
 
         // example:
         platform.create(400, 460);
-        platform.create(500, 200);
-        
+        platform.create(700, 400);
+        platform.create(800, 200);
+        platform.create(40, 60);
+        platform.create(600,300);
+        platform.create(500,300);
         
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
